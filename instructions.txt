@@ -1,0 +1,28 @@
+install python in the local machine
+
+download the git zip file link 
+
+unzip the file
+
+open it in the vs code
+
+instll the requirements by runing the command in the terminal 
+
+pip -r requirements.txt
+
+after the successful installation then 
+
+install -->     pip install opencv-python
+                pip install deepface
+
+now run the python code then it will install the dependencies from the github
+
+after all the installation the source.png for the folder media will be trained then
+
+you front camera will be open using python  
+
+show the will smiths video it will predict the required output
+
+dont delete .gitignore file the the file wont run there will a composer error in the further code you will develop
+
+            -------------------------------
